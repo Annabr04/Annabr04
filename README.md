@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anna Brackat  
 **Software Developer | QA Automation | IT Support Specialist**  
-Dallas, TX • Portfolio & Projects on GitHub
+Manchester, NH • Portfolio & Projects on GitHub
 
 ---
 
