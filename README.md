@@ -12,7 +12,7 @@ I’m a passionate and detail-oriented developer with experience in:
 - **IT support & troubleshooting** (Windows environments, AD, systems support)
 
 I love building tools that solve real problems, automating workflows, and learning new technologies fast.  
-Now pursuing a **Computer Science degree at CTU** (transferred from SNHU) and actively working toward a QA/software internship.
+Now pursuing a **Computer Science degree at SNHU** (Actively working toward a QA/software internship.)
 
 ---
 
@@ -60,7 +60,7 @@ Debugging • Automation • QA Testing • System Support • Problem Solving �
 
 ## 📩 Contact  
 📧 **AnnaBrackat@gmail.com**  
-📍 Dallas, TX  
+📍 Manchester, NH  
 🔗 GitHub: https://github.com/Annabr04  
 
 ---
