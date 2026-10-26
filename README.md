@@ -1,67 +1,32 @@
-# 👋 Hi, I'm Anna Brackat  
-**Software Developer | QA Automation | IT Support Specialist**  
-Manchester, NH • Portfolio & Projects on GitHub
+# Anna Brackat
 
----
+Computer science student at Southern New Hampshire University. Pharmacy technician at Amazon, in Manchester, NH. I am looking for an entry-level software engineering role.
 
-## 🚀 About Me
-I’m a passionate and detail-oriented developer with experience in:
-- **Software development** (Java, C#, C, C++, Python, JavaScript)
-- **API testing & QA automation** (Postman, Newman, CI-style reporting)
-- **Web development** (HTML, CSS, JS, React)
-- **IT support & troubleshooting** (Windows environments, AD, systems support)
+I use the pharmacy bench as the source of the problems, not as a place to store patient data. The Android projects below use synthetic stock, synthetic checklists, and interview notes. None of them is a live system at work.
 
-I love building tools that solve real problems, automating workflows, and learning new technologies fast.  
-Now pursuing a **Computer Science degree at SNHU** (Actively working toward a QA/software internship.)
+## Start here
 
----
+| Project | What a reviewer should look at |
+| --- | --- |
+| [benchline](https://github.com/Annabr04/benchline) | Fill-line state machine in Kotlin. NDC padding, look-alike guards, pharmacist-only release. Domain tests run in GitHub Actions with no emulator. |
+| [vialcount](https://github.com/Annabr04/vialcount) | Blind cycle counts. A variance outside the allowance needs a real recount. Only a lead can accept it. |
+| [shiftnote](https://github.com/Annabr04/shiftnote) | End-of-shift checklist. Required items block the close. A pharmacist acknowledges it. |
+| [recall](https://github.com/Annabr04/recall) | Spaced-repetition deck for interview prompts. The schedule is integer math, with tests. |
+| [task-management-api](https://github.com/Annabr04/task-management-api) | Small HTTP API. FastAPI, SQLAlchemy, SQLite, pytest. |
 
-## 📌 Featured Projects
+## Also on this account
 
-### 🔹 API Testing Suite – Postman + Newman  
-Automated API tests using Postman collections, environments, Newman CLI, and HTML reports.  
-**Skills:** API testing, automation, environment management, CI workflows  
-➡️ Repo: https://github.com/Annabr04/API-Testing-Suite-Postman-Newman-
+- [expense-tracker-cli](https://github.com/Annabr04/expense-tracker-cli) — Python CLI, SQLite, CSV export, pytest
+- [huffman-compressor-cpp](https://github.com/Annabr04/huffman-compressor-cpp) — Huffman tree in C++
+- [API-Testing-Suite-Postman-Newman-](https://github.com/Annabr04/API-Testing-Suite-Postman-Newman-) — Postman and Newman against the public ReqRes API
+- [TaskTracker](https://github.com/Annabr04/TaskTracker) — Java command-line task list
+- [Python-Utility-Tools](https://github.com/Annabr04/Python-Utility-Tools) — short Python scripts
+- [odin-recipes2](https://github.com/Annabr04/odin-recipes2), [Landing_Page](https://github.com/Annabr04/Landing_Page), and [Project1](https://github.com/Annabr04/Project1) — early HTML and CSS
 
-### 🔹 TaskTracker (Java)  
-Full CLI task manager with file persistence, task filtering, and input validation.  
-**Skills:** Java, OOP, file I/O  
-➡️ Repo: https://github.com/Annabr04/TaskTracker
+## What I work with
 
-### 🔹 Huffman Coding Compressor (C++)  
-Efficient text compressor using Huffman coding with priority queues & binary trees.  
-**Skills:** Algorithms, data structures, C++  
-➡️ Repo: https://github.com/Annabr04/Huffman-Coding-Compressor-C-
+Java, Kotlin, Python, C++, JavaScript, SQL. Git, JUnit-style tests, pytest, Postman, Jetpack Compose.
 
-### 🔹 Calculator Suite (C, C++, Java)  
-Multi-language calculator implementations to demonstrate fundamentals & architecture differences.  
-**Skills:** C, C++, Java, input validation  
-➡️ Repo: https://github.com/Annabr04/Calculator-Suite-C-C-Java-
+## Contact
 
-### 🔹 Python Utility Tools  
-Collection of mini-tools (API requester, JSON formatter, file utilities).  
-**Skills:** Python scripting, automation  
-➡️ Repo: https://github.com/Annabr04/Python-Utility-Tools
-
----
-
-## 🧰 Tech Stack
-
-**Languages:**  
-C#, Java, Python, C, C++, JavaScript, SQL
-
-**Tools & Frameworks:**  
-Postman, Newman, React, Git/GitHub, Docker, HTML/CSS, API Integration
-
-**Core Strengths:**  
-Debugging • Automation • QA Testing • System Support • Problem Solving • Workflow Optimization
-
----
-
-## 📩 Contact  
-📧 **AnnaBrackat@gmail.com**  
-📍 Manchester, NH  
-🔗 GitHub: https://github.com/Annabr04  
-
----
-_Thanks for visiting! Feel free to explore my projects or reach out._  
+[AnnaBrackat@gmail.com](mailto:AnnaBrackat@gmail.com) · Manchester, NH · [github.com/Annabr04](https://github.com/Annabr04)
