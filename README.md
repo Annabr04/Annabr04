@@ -26,7 +26,7 @@ I use the pharmacy bench as the source of the problems, not as a place to store 
 - [API-Testing-Suite-Postman-Newman-](https://github.com/Annabr04/API-Testing-Suite-Postman-Newman-) — Postman and Newman against the public ReqRes API
 - [TaskTracker](https://github.com/Annabr04/TaskTracker) — Java command-line task list
 - [Python-Utility-Tools](https://github.com/Annabr04/Python-Utility-Tools) — short Python scripts
-- [odin-recipes2](https://github.com/Annabr04/odin-recipes2), [Landing_Page](https://github.com/Annabr04/Landing_Page), and [Project1](https://github.com/Annabr04/Project1) — early HTML and CSS
+- [Landing_Page](https://github.com/Annabr04/Landing_Page) and [Project1](https://github.com/Annabr04/Project1) — early HTML and CSS
 
 ## What I work with
 
