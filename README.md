@@ -11,7 +11,6 @@ I use the pharmacy bench as the source of the problems, not as a place to store 
 | [benchline](https://github.com/Annabr04/benchline) | Fill-line state machine in Kotlin. NDC padding, look-alike guards, pharmacist-only release. Domain tests run in GitHub Actions with no emulator. |
 | [vialcount](https://github.com/Annabr04/vialcount) | Blind cycle counts. A variance outside the allowance needs a real recount. Only a lead can accept it. |
 | [shiftnote](https://github.com/Annabr04/shiftnote) | End-of-shift checklist. Required items block the close. A pharmacist acknowledges it. |
-| [recall](https://github.com/Annabr04/recall) | Spaced-repetition deck for interview prompts. The schedule is integer math, with tests. |
 | [task-management-api](https://github.com/Annabr04/task-management-api) | Small HTTP API. FastAPI, SQLAlchemy, SQLite, pytest. |
 
 ## Research in progress
