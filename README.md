@@ -14,6 +14,11 @@ I use the pharmacy bench as the source of the problems, not as a place to store 
 | [recall](https://github.com/Annabr04/recall) | Spaced-repetition deck for interview prompts. The schedule is integer math, with tests. |
 | [task-management-api](https://github.com/Annabr04/task-management-api) | Small HTTP API. FastAPI, SQLAlchemy, SQLite, pytest. |
 
+## Research in progress
+
+- [ct01](https://github.com/Annabr04/ct01/tree/beta/audit-chain) — C++ `audit_chain` beta, an integrity-checked audit log verifier. Synthetic data only. It is not for real PHI, production, or pilot use.
+- [glasses-free-3d-multi-viewer](https://github.com/Annabr04/glasses-free-3d-multi-viewer) — Research foundation for multi-viewer glasses-free 3D. Software scaffolds first, then hardware.
+
 ## Also on this account
 
 - [expense-tracker-cli](https://github.com/Annabr04/expense-tracker-cli) — Python CLI, SQLite, CSV export, pytest
